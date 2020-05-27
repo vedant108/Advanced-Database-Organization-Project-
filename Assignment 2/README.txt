@@ -1,8 +1,9 @@
 Assignment 02: 
-Team members: 
+Team members:
+Vedant Suram 
 Siddharth Mishra
 Kanyakumari Kashyap
-Vedant Suram 
+
 
 
 The main aim of this assignment is to implement the buffer manager. The buffer manager helps to manage a buffer of blocks in the memory. It reads the data to a disk or flush it into the disk and it
